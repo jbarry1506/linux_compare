@@ -1,4 +1,4 @@
-﻿$fileLoc = "C:\Users\jxb0277s\Desktop\scripts\linux compare\"
+﻿$fileLoc = <filepath of text files>
 $root = $fileLoc + "root.txt"
 $email = $fileLoc + "email.txt"
 $subpattern = "subject"
